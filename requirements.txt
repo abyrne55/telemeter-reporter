@@ -1,4 +1,4 @@
-PyYAML==5.1.1
+PyYAML==5.4
 certifi==2019.6.16
 requests==2.22.0
 PyJWT[crypto]==1.7.1
